@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/it/f/f0/UEFA_Euro_2024_Logo.png" width="300"/></td>
     <td style="vertical-align: top; padding-left: 20px;">
