@@ -1,14 +1,6 @@
 # UEFA Euro 2024 Datenanalyse
 
-Dieses Projekt bietet eine umfassende Datenanalyse der UEFA Euro 2024, einem der bedeutendsten Fußballturniere der Welt. Ziel dieses Projekts ist es, interessante Muster und Trends zu identifizieren, die sich aus den Spieldaten und weiteren relevanten Informationen ableiten lassen.
-
-## Projektübersicht
-
-Das Projekt umfasst folgende Hauptabschnitte:
-
-1. **Datenaufbereitung**: Reinigung und Vorbereitung der Rohdaten für die Analyse.
-2. **Deskriptive Statistiken**: Untersuchung der numerischen und kategorialen Daten, um grundlegende Zusammenhänge und Verteilungen zu identifizieren.
-3. **Datenvisualisierung**: Erstellung aussagekräftiger Grafiken und interaktiver Karten, um die Ergebnisse anschaulich darzustellen.
+Dieses Notebook dient als Übungsprojekt, um verschiedene Methoden der Datenanalyse und -visualisierung praxisnah zu erproben. Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren. Das Projekt verfolgt kein festgelegtes Ziel, sondern zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. Dabei werden Techniken wie Datenbereinigung, deskriptive Statistiken, Visualisierungen sowie die Identifikation relevanter Muster und Zusammenhänge angewendet.
 
 ## Interaktives Notebook
 
@@ -38,7 +30,7 @@ pip install numpy pandas matplotlib seaborn folium
 Klone das Repository:
 
 ```bash
-git clone https://github.com/dein-username/uefa-euro-2024-data-analysis.git
+git clone https://github.com/markuslangus/euro2024-data-project.git
 ```
 
 Navigiere in das Verzeichnis:
