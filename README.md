@@ -1,4 +1,4 @@
-<img src="https://www.fifplay.com/img/public/euro-2024-logo-side.png" width="300"/>
+<img src="https://www.fifplay.com/img/public/euro-2024-logo-side.png" width="150"/>
 
 Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. 
 Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, 
