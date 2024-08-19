@@ -4,7 +4,7 @@ Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigk
 
 ## Interaktives Notebook
 
-Für eine interaktive Ansicht, einschließlich der Möglichkeit, Code auszuführen und Ergebnisse direkt zu sehen, können Sie das Notebook über nbviewer.org betrachten:
+Für eine interaktive Ansicht, einschließlich der Möglichkeit, Code auszuführen und Ergebnisse direkt zu sehen, können Sie das Notebook über nbviewer.org betrachten. Hierfür ist kein Download erforderlich, das Notebook ist online unter folgemdem Link einsehbar:
 
 [**Notebook auf nbviewer.org anzeigen**](https://nbviewer.org/github/markuslangus/euro2024-data-project/blob/main/Euro2024_DataAnalysis.ipynb)
 
