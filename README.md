@@ -10,7 +10,7 @@ Hierfür ist kein Download erforderlich, das Notebook ist online unter folgendem
 
 [**Notebook auf nbviewer.org anzeigen**](https://nbviewer.org/github/markuslangus/euro2024-data-project/blob/main/Euro2024_DataAnalysis.ipynb)
 
-## Voraussetzungen
+## ⚙️ Voraussetzungen
 
 Um das Notebook lokal auszuführen, wird empfohlen, eine virtuelle Umgebung zu erstellen und die notwendigen Python-Bibliotheken darin zu installieren. Dies gewährleistet, dass alle Abhängigkeiten sauber und isoliert verwaltet werden.
 
@@ -27,7 +27,7 @@ Installiere dann die benötigten Bibliotheken mit folgendem Befehl:
 pip install numpy pandas matplotlib seaborn folium
 ```
 
-## Verwendung
+## 🛠️ Verwendung
 
 Klone das Repository:
 
@@ -47,7 +47,7 @@ cd euro2024-data-project
 jupyter notebook Euro2024_DataAnalysis.ipynb
 ```
 
-## Projektabschluss
+## ✅ Projektabschluss
 
 Dieses Projekt wurde mit besonderem Augenmerk auf Benutzerfreundlichkeit, klare Dokumentation und anschauliche Visualisierungen abgeschlossen. Alle Schritte sind sorgfältig dokumentiert, um den Analyseprozess nachvollziehbar zu machen und die Ergebnisse klar zu präsentieren.
 
