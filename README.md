@@ -1,6 +1,6 @@
 # UEFA Euro 2024 Datenanalyse
 
-Dieses Notebook dient als Übungsprojekt, um verschiedene Methoden der Datenanalyse und -visualisierung praxisnah zu erproben. Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren. Das Projekt verfolgt kein festgelegtes Ziel, sondern zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. Dabei werden Techniken wie Datenbereinigung, deskriptive Statistiken, Visualisierungen sowie die Identifikation relevanter Muster und Zusammenhänge angewendet.
+Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren.
 
 ## Interaktives Notebook
 
