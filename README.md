@@ -1,4 +1,4 @@
-<img src="https://it.wikipedia.org/wiki/File:UEFA_Euro_2024_Logo.png" alt="UEFA Euro 2024 Logo" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/it/f/f0/UEFA_Euro_2024_Logo.png" width="200"/>
 
 Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren.
 
