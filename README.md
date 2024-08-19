@@ -1,13 +1,8 @@
-<table border="0">
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/it/f/f0/UEFA_Euro_2024_Logo.png" width="300"/></td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. 
-      Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, 
-      statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren.
-    </td>
-  </tr>
-</table>
+<img src="https://www.fifplay.com/img/public/euro-2024-logo-side.png" width="300"/>
+
+Dieses Notebook dient als Übungsprojekt und zielt darauf ab, praktische Fähigkeiten in der Datenverarbeitung und -interpretation zu vertiefen. 
+Die Datensätze zur UEFA Euro 2024 werden verwendet, um exemplarisch explorative Datenanalysen (EDA) durchzuführen, 
+statistische Auswertungen zu erstellen und anschauliche Visualisierungen zu generieren.
 
 ## 🌐 Interaktives Notebook
 
